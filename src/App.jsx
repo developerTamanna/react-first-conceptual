@@ -1,6 +1,6 @@
 
 import './App.css'
-
+import ShowHideText from './sowHide'
 function App() {
 
 
@@ -8,6 +8,7 @@ function App() {
     <>
      
       <h1>Vite + React</h1>
+      <ShowHideText></ShowHideText>
      
     </>
   )
